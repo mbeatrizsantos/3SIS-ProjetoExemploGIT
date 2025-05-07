@@ -1,2 +1,2 @@
 # 3SIS-ProjetoExemploGIT
-Repositótro de fontes de progtamas e documentos do projeto Exemplo
+Repositótro de fontes de programas e documentos do projeto Exemplo
